@@ -1,16 +1,11 @@
 # 35 Foodies
 
-### 
-
-Features:
-
-• ~~Intuitive and modern UI with Aceternity components.~~
-
-• ~~Optimized for performance and accessibility.~~
-
-• ~~Dynamic course and schedule management.~~
-
-• ~~Responsive design for all devices.~~
+🚀 Features
+🔹 Animated Hero Section – Framer Motion animations
+🔹 Responsive Navbar & Dropdown – Built with Tailwind CSS
+🔹 Dynamic Card Sections – Interactive elements
+🔹 Testimonials & Banner – Engaging UI/UX
+🔹 Optimized & Deployed – Production-ready
 
 ## Available Scripts
 
@@ -38,4 +33,7 @@ Your app is ready to be deployed!
 
 ### React Icons - https://www.npmjs.com/package/react-icons
     npm i react-icons
+
+
+# Video Preview
 

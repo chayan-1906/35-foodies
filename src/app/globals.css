@@ -22,6 +22,6 @@
     }
 
     .footer-link {
-        @apply hover:underline hover:text-darkGreen duration-200;
+        @apply w-fit hover:underline hover:text-darkGreen duration-200 cursor-pointer;
     }
 }

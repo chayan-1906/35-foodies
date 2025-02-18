@@ -24,9 +24,8 @@ function Banner() {
                 {/** text content section */}
                 <div className={'space-y-3 lg:max-w-[400px]'}>
                     <motion.h1 variants={SlideUp(1)} initial={'hidden'} whileInView={'show'} className={'text-6xl uppercase font-semibold font-league'}>The best yummy food in the town</motion.h1>
-                    <motion.p variants={SlideUp(1.3)} initial={'hidden'} whileInView={'show'} className={''}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sem justo, maximus at
-                        molestie non, ultricies ac massa. Ut pretium purus vitae hendrerit
-                        mattis.
+                    <motion.p variants={SlideUp(1.3)} initial={'hidden'} whileInView={'show'} className={''}>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sem justo, maximus at molestie non, ultricies ac massa. Ut pretium purus vitae hendrerit mattis.
                     </motion.p>
                     <motion.button variants={SlideUp(1.6)} initial={'hidden'} whileInView={'show'} className={'btn-primary'}>Order Now</motion.button>
                 </div>
