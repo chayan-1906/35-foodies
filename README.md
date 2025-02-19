@@ -2,9 +2,13 @@
 
 🚀 Features
 🔹 Animated Hero Section – Framer Motion animations
+
 🔹 Responsive Navbar & Dropdown – Built with Tailwind CSS
+
 🔹 Dynamic Card Sections – Interactive elements
+
 🔹 Testimonials & Banner – Engaging UI/UX
+
 🔹 Optimized & Deployed – Production-ready
 
 ## Available Scripts
